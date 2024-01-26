@@ -19,13 +19,13 @@ namespace teamwork
 
         private void Form1_Load(object sender, EventArgs e)
         {
-<<<<<<< HEAD
+
             //thanh
             //tao
-=======
+
             //Bao
             //ganhTeam
->>>>>>> npb
+
         }
     }
 }
