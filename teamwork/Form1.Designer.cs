@@ -35,8 +35,13 @@
 <<<<<<< HEAD
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 =======
+<<<<<<< HEAD
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
 >>>>>>> doadoa
+=======
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+>>>>>>> npb
+>>>>>>> f3ecbcdb5b5e7cbafcb16ab6acaf4c96ce7938bc
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Name = "Form1";

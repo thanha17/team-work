@@ -19,10 +19,18 @@ namespace teamwork
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
             //thanh
             //tao
+<<<<<<< HEAD
             //doanh
             //create
+=======
+
+            //Bao
+            //ganhTeam
+
+>>>>>>> f3ecbcdb5b5e7cbafcb16ab6acaf4c96ce7938bc
         }
     }
 }
